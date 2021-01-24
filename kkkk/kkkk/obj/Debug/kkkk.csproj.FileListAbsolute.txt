@@ -1,0 +1,11 @@
+c:\users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\bin\Debug\kkkk.exe.config
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\bin\Debug\kkkk.exe
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\bin\Debug\kkkk.pdb
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.csprojResolveAssemblyReference.cache
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.Form1.resources
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.Form2.resources
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.Properties.Resources.resources
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.csproj.GenerateResource.Cache
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.exe
+C:\Users\lana6\documents\visual studio 2015\Projects\kkkk\kkkk\obj\Debug\kkkk.pdb
